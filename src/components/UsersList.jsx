@@ -1,4 +1,4 @@
-// Users.js
+// Users.jsx
 import React from "react";
 import '../styles/style.css'
 

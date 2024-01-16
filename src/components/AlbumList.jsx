@@ -1,4 +1,4 @@
-// /components/AlbumList.jsx
+// AlbumList.jsx
 import React from 'react';
 import '../styles/style.css'
 

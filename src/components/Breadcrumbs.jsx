@@ -1,4 +1,4 @@
-// /components/Breadcrumbs.jsx
+// Breadcrumbs.jsx
 import React from "react";
 import "../styles/style.css";
 

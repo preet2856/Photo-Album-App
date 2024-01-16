@@ -1,3 +1,4 @@
+// Nav.jsx
 import React from "react";
 import logo from "../assets/logo.png";
 const Nav = () => {
