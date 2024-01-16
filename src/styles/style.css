@@ -105,7 +105,34 @@ h2 {
 		height: 150vh;
 	}
 
+	h1,
+	h2 {
+		font-size: 5vw;
+	}
+
 	.photo-list {
 		grid-template-columns: repeat(6, 1fr);
+	}
+}
+
+@media (max-width: 500px) {
+	.app-container {
+		height: 300vh;
+	}
+
+	h1,
+	h2 {
+		font-size: 7vw;
+	}
+
+	.photo-list {
+		grid-template-columns: repeat(3, 1fr);
+	}
+}
+
+@media (max-width: 400px) {
+	.photo-list img {
+		width: 75px;
+		height: 75px;
 	}
 }
